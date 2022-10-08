@@ -7,7 +7,7 @@ const Blog = () => {
       <Accordion.Item eventKey="0">
         <Accordion.Header>What is the purpose of React Router?</Accordion.Header>
         <Accordion.Body>
-        ReactJS Router is mainly used for developing Single Page Web Applications. React Router is used to define multiple routes in the application. When a user types a specific URL into the browser, and if this URL path matches any 'route' inside the router file, the user will be redirected to that particular route.
+        React Router is mainly used for developing Single Page Web Applications. React Router is used to define multiple routes in the application. When a user types a specific URL into the browser, and if this URL path matches any 'route' inside the router file, the user will be redirected to that particular route.
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="1">
