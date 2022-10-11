@@ -13,7 +13,7 @@ const Blog = () => {
       <Accordion.Item eventKey="1">
         <Accordion.Header>How Context Api works?</Accordion.Header>
         <Accordion.Body>
-        The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.
+        The React context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.
         </Accordion.Body>
       </Accordion.Item>
 
